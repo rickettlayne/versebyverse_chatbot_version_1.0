@@ -1,0 +1,11 @@
+beautifulsoup4
+chromadb
+langchain
+langchain-community
+langchain-openai
+openai
+pdfplumber
+playwright
+python-dotenv
+pytest
+tiktoken
