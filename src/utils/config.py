@@ -28,7 +28,7 @@ class Config:
         # Target URLs
         self.target_urls = [
             "https://versebyverseministry.org/bible-studies/category/old-testament-books?category=old-testament-books",
-            "https://versebyverseministry.org/bible-studies/category/new-testament-books?category=old-testament-books"
+            "https://versebyverseministry.org/bible-studies/category/new-testament-books?category=new-testament-books"
         ]
     
     def validate(self) -> bool:
