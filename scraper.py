@@ -11,7 +11,7 @@ from playwright.sync_api import sync_playwright
 
 TARGET_URLS = [
     "https://versebyverseministry.org/bible-studies/category/old-testament-books?category=old-testament-books",
-    "https://versebyverseministry.org/bible-studies/category/new-testament-books?category=old-testament-books",
+    "https://versebyverseministry.org/bible-studies/category/new-testament-books?category=new-testament-books",
 ]
 
 PDF_DIR = Path("./data/pdfs")
